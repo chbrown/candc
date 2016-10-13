@@ -48,3 +48,14 @@ That site and files are currently still live and accessible, but for added stabi
 ## License
 
 I have no idea. Creative Commons should come up with something for abandonware.
+
+
+## Other resurrections
+
+An [Inria researcher](https://github.com/valeriobasile) runs a live demo server at <http://valeriobasile.github.io/candcapi/>
+
+To repeat the needlessly heteronormative example from that page (_the patriarchy is strong with this one_):
+
+    curl -d 'Every man loves a woman' 'http://gingerbeard.alwaysdata.net/candcapi/proxy.php/raw/pipeline?semantics=fol'
+
+> fol(1,not(some(A,and(n1man(A),not(some(B,some(C,and(r1patient(B,C),and(r1agent(B,A),and(v1love(B),n1woman(C))))))))))).
