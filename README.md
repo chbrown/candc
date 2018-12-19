@@ -1,3 +1,8 @@
+_**Nota bene:**_ This project is entirely unsupported.
+I have not been able to get it to work, so creating an issue asking for guidance would be futile.
+If you have files to contribute, or build instructions / documentation that others might find useful, awesome!
+[Please submit a PR here](https://github.com/chbrown/candc/compare).
+
 # candc
 
 The canonical site, <http://svn.ask.it.usyd.edu.au/trac/candc>, is totally down.
