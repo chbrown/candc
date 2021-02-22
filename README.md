@@ -13,10 +13,10 @@ Luckily, the Wayback Machine has archived most of that site:
 
 Unfortunately, James Curran put all the downloads behind a registration wall, so the Wayback Machine doesn't have any records of those.
 
-Fortunately, Stephen Clark hosts a copy of just the [C&C Parser downloads](http://www.cl.cam.ac.uk/~sc609/candc-1.00.html) on his Cambridge website.
-The files available there are the 1.00 version, so not the latest version of everything, but better than nothing!
+Fortunately, by the time I got around to creating this repository, Stephen Clark still hosted a copy of the downloads on his Cambridge website, <http://www.cl.cam.ac.uk/~sc609/candc-1.00.html> ([latest capture on the Wayback Machine](https://web.archive.org/web/20180727140643/http://www.cl.cam.ac.uk/~sc609/candc-1.00.html)).
+The files available there were the 1.00 version, so not the latest version of everything, but better than nothing!
 
-That site and files are currently still live and accessible, but for added stability, I've downloaded and added them to this repository. The following section is taken verbatim from <http://www.cl.cam.ac.uk/~sc609/candc-1.00.html>.
+~That site and files are currently still live and accessible, but~ because I _knew_ that would happen, I downloaded and added them to this repository. The following section is taken verbatim from Stephen Clark's "C&C Parser Downloads" page.
 
 
 ## Version 1.0 9/06/07
